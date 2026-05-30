@@ -1,6 +1,5 @@
-# Deploy storefront/ to GitHub Pages (site root).
-# One-time setup: repo Settings → Pages → Source: GitHub Actions (not "Deploy from branch").
-# Until Actions is enabled, root index.html redirects /#buy → storefront/#buy (branch deploy).
+# Deploy docs/ to GitHub Pages (site root). Alternative: Settings → Pages → branch main → /docs.
+# If using this workflow: Settings → Pages → Source: GitHub Actions.
 name: Deploy GitHub Pages
 
 on:
@@ -33,7 +32,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: storefront
+          path: docs
 
       - name: Deploy to GitHub Pages
         id: deployment

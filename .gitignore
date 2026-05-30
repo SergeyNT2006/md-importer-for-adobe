@@ -34,7 +34,7 @@ jsx/
 standalone/
 /index.html
 
-# Old website files at project root (site is in storefront/)
+# Old website files at project root (site is in docs/)
 /home.html
 /thanks.html
 /style.css
@@ -42,7 +42,7 @@ standalone/
 /pages-redirect.html
 /site-*.html
 /site-*.css
-/docs/
+/storefront/
 
 .env
 .env.local

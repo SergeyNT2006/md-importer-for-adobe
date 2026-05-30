@@ -106,20 +106,25 @@ This public repository contains **product information and samples only**. Source
 
 | Path | Description |
 |------|-------------|
-| [storefront/](storefront/) | Product website — deploy **`/storefront`** folder on GitHub Pages (see below) |
+| [docs/](docs/) | Product website — deploy **`/docs`** folder on GitHub Pages (see below) |
 | [samples/](samples/) | Demo Markdown files (also bundled in ZXP) |
 
 ---
 
 ## GitHub Pages (product website)
 
-The product page with the PayPal button lives in **`storefront/`**. Configure once:
+The product page with the PayPal button lives in **`docs/`**. GitHub Pages can publish only **`/` (root)** or **`/docs`** — not other folders.
+
+Configure once:
 
 1. [Repository Settings → Pages](https://github.com/SergeyNT2006/md-importer-for-adobe/settings/pages)
-2. **Source:** either **GitHub Actions** (workflow `.github/workflows/pages.yml`) **or** **Deploy from branch** → `main` → folder **`/storefront`**
-3. Do **not** deploy from repository root `/` — without `index.html` at root, GitHub shows this README and `#buy` links do nothing.
+2. **Source:** **Deploy from a branch**
+3. **Branch:** `main` → folder **`/docs`** → **Save**
+4. Wait 1–2 minutes, then open **https://sergeynt2006.github.io/md-importer-for-adobe/#buy**
 
-After deploy, **https://sergeynt2006.github.io/md-importer-for-adobe/#buy** opens the PayPal button section.
+Do **not** use **`/` (root)** — without `index.html` at repo root, GitHub shows this README and `#buy` links do nothing.
+
+Alternative: **Source → GitHub Actions** (workflow `.github/workflows/pages.yml` deploys the same `docs/` folder).
 
 ---
 
