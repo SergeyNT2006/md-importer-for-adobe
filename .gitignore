@@ -39,6 +39,9 @@ GITHUB.md
 manual.md
 legacy/
 docs/PAYPAL_SETUP.md
+site-*.html
+site-*.css
+pages-redirect.html
 LOCAL_SOURCE_ONLY.txt
 .env
 .env.local

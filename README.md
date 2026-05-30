@@ -2,14 +2,19 @@
 
 **Markdown Importer for Adobe InDesign and Illustrator**
 
-This public repository contains **product information only** (website, demo download links, purchase).  
-**Source code is not published here.**
+---
+
+## → [Open product page / Buy $25 (PayPal)](https://sergeynt2006.github.io/md-importer-for-adobe/home.html#buy)
+
+**Live site:** https://sergeynt2006.github.io/md-importer-for-adobe/home.html
+
+This repository contains **product information only** (website, demo links, purchase). **Source code is not published.**
 
 | | Link |
 |---|------|
-| **Product website** (features, demo, PayPal $25) | https://sergeynt2006.github.io/md-importer-for-adobe/ |
+| **Product website** | https://sergeynt2006.github.io/md-importer-for-adobe/home.html |
+| **Buy full version ($25)** | https://sergeynt2006.github.io/md-importer-for-adobe/home.html#buy |
 | **Demo download** | https://github.com/SergeyNT2006/md-importer-for-adobe/releases |
-| **Full version** | $25 USD via PayPal on the website |
 
 ---
 
@@ -21,20 +26,6 @@ This public repository contains **product information only** (website, demo down
 - **Colored** visual markup (Adobe InDesign only)
 - InDesign: tables, footnotes, lists, headings
 - Illustrator: Markdown import with style mapping
-
----
-
-## Demo
-
-Download the **demo ZXP** from [Releases](https://github.com/SergeyNT2006/md-importer-for-adobe/releases) and install with your CEP/ZXP installer.  
-Sample Markdown files are in the `samples/` folder.
-
----
-
-## Full version ($25)
-
-Purchase on the [product page](https://sergeynt2006.github.io/md-importer-for-adobe/#buy).  
-You receive the full ZXP and instructions by email.
 
 ---
 
