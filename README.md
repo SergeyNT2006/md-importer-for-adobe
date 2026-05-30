@@ -8,7 +8,7 @@ Import **Markdown** into **Adobe InDesign** and **Adobe Illustrator** with autom
 |---|---|
 | **Product website & purchase** | **[sergeynt2006.github.io/md-importer-for-adobe](https://sergeynt2006.github.io/md-importer-for-adobe/)** |
 | **Buy full version ($25)** | **[PayPal checkout ($25) →](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=lgphonemar24@gmail.com&item_name=MD+Importer+Full+License&amount=25.00&currency_code=USD&no_shipping=1&return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2Fthanks.html&cancel_return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2F)** · [Product page #buy](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) |
-| **Free demo (ZXP)** | [GitHub Releases](https://github.com/SergeyNT2006/md-importer-for-adobe/releases) |
+| **Free demo (standalone .jsx)** | **[Download MD-Importer-Demo.jsx](https://github.com/SergeyNT2006/md-importer-for-adobe/raw/main/demo/MD-Importer-Demo.jsx)** — max 80 lines per file |
 | **Sample Markdown** | [samples/demo.md](samples/demo.md) |
 
 **Contact:** ryzl@hotmail.com · sergeynt2006@yandex.ru
@@ -70,11 +70,12 @@ Compared to generic Markdown tools or paste-from-HTML workflows, MD Importer is 
 
 ## Quick start (demo)
 
-1. Download the **demo ZXP** from [Releases](https://github.com/SergeyNT2006/md-importer-for-adobe/releases) *(when published)*.
-2. Install with your CEP/ZXP installer (e.g. Anastasiy Extension Manager).
-3. Restart **InDesign** or **Illustrator**.
-4. Open **Window → Extensions → MD Importer**.
-5. Select a Markdown file (try [samples/demo.md](samples/demo.md)) → **Import**.
+1. Download **[MD-Importer-Demo.jsx](https://github.com/SergeyNT2006/md-importer-for-adobe/raw/main/demo/MD-Importer-Demo.jsx)** (standalone script, no install).
+2. Open **Adobe InDesign** or **Illustrator** with a document.
+3. **File → Scripts → Other Script…** and select `MD-Importer-Demo.jsx`.
+4. Choose a Markdown file (try [samples/demo.md](samples/demo.md)) → **Import**.
+
+**Demo limit:** only the **first 80 lines** of each `.md` file are imported. Full version: unlimited import + CEP panel ([purchase](https://sergeynt2006.github.io/md-importer-for-adobe/#buy)).
 
 ---
 
@@ -107,7 +108,8 @@ This public repository contains **product information and samples only**. Source
 | Path | Description |
 |------|-------------|
 | [docs/](docs/) | Product website — deploy **`/docs`** folder on GitHub Pages (see below) |
-| [samples/](samples/) | Demo Markdown files (also bundled in ZXP) |
+| [demo/](demo/) | **Free demo** — compiled standalone `MD-Importer-Demo.jsx` (80-line limit) |
+| [samples/](samples/) | Sample Markdown files for testing the demo |
 
 ---
 

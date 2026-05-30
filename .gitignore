@@ -44,5 +44,9 @@ standalone/
 /site-*.css
 /storefront/
 
+# Demo — publish compiled JSX only; keep readable source local
+demo/MD-Importer-Demo_native.jsx
+demo/*_native.jsx
+
 .env
 .env.local
