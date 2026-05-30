@@ -1,0 +1,46 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# CEP / packaging (never publish)
+*.zxp
+*.pem
+*.p12
+signing/
+
+# Adobe debris
+*.indd.lock
+*.ai.lock
+~$*
+
+# Local dev — do NOT commit source to public storefront repo
+CSXS/
+css/
+js/
+jsx/
+standalone/
+/index.html
+PROJECT.md
+RELEASE_CHECKLIST.md
+SUPPORT_SPEC_V1.md
+GITHUB.md
+manual.md
+legacy/
+docs/PAYPAL_SETUP.md
+LOCAL_SOURCE_ONLY.txt
+.env
+.env.local
+
+legacy/local/
