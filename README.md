@@ -7,7 +7,7 @@ Import **Markdown** into **Adobe InDesign** and **Adobe Illustrator** with autom
 | | |
 |---|---|
 | **Product website & purchase** | **[sergeynt2006.github.io/md-importer-for-adobe](https://sergeynt2006.github.io/md-importer-for-adobe/)** |
-| **Buy full version ($25)** | **[PayPal checkout →](https://sergeynt2006.github.io/md-importer-for-adobe/#buy)** |
+| **Buy full version ($25)** | **[PayPal checkout ($25) →](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=lgphonemar24@gmail.com&item_name=MD+Importer+Full+License&amount=25.00&currency_code=USD&no_shipping=1&return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2Fthanks.html&cancel_return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2F)** · [Product page #buy](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) |
 | **Free demo (ZXP)** | [GitHub Releases](https://github.com/SergeyNT2006/md-importer-for-adobe/releases) |
 | **Sample Markdown** | [samples/demo.md](samples/demo.md) |
 
@@ -82,7 +82,9 @@ Compared to generic Markdown tools or paste-from-HTML workflows, MD Importer is 
 
 The full license includes the complete ZXP, updates for the current major version, and email support.
 
-**[→ Purchase on the product website (PayPal)](https://sergeynt2006.github.io/md-importer-for-adobe/#buy)**
+**[→ PayPal checkout — $25 USD](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=lgphonemar24@gmail.com&item_name=MD+Importer+Full+License&amount=25.00&currency_code=USD&no_shipping=1&return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2Fthanks.html&cancel_return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2F)**
+
+Or open the [product page buy section](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) and click **Pay with PayPal — $25**.
 
 After payment you receive the full installer and instructions by email (usually within 1–2 business days).  
 If needed, send your PayPal receipt to **ryzl@hotmail.com**.
@@ -104,8 +106,20 @@ This public repository contains **product information and samples only**. Source
 
 | Path | Description |
 |------|-------------|
-| [storefront/](storefront/) | Product website (deployed via GitHub Actions) |
+| [storefront/](storefront/) | Product website — deploy **`/storefront`** folder on GitHub Pages (see below) |
 | [samples/](samples/) | Demo Markdown files (also bundled in ZXP) |
+
+---
+
+## GitHub Pages (product website)
+
+The product page with the PayPal button lives in **`storefront/`**. Configure once:
+
+1. [Repository Settings → Pages](https://github.com/SergeyNT2006/md-importer-for-adobe/settings/pages)
+2. **Source:** either **GitHub Actions** (workflow `.github/workflows/pages.yml`) **or** **Deploy from branch** → `main` → folder **`/storefront`**
+3. Do **not** deploy from repository root `/` — without `index.html` at root, GitHub shows this README and `#buy` links do nothing.
+
+After deploy, **https://sergeynt2006.github.io/md-importer-for-adobe/#buy** opens the PayPal button section.
 
 ---
 
