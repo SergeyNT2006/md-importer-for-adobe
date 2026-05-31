@@ -1,0 +1,52 @@
+MD Importer — import Markdown into Adobe InDesign & Illustrator with automatic style mapping. Minimum settings. Maximum speed.
+
+▶ FREE DEMO (first 80 lines):
+https://sergeynt2006.github.io/md-importer-for-adobe/demo/MD-Importer-Demo.zip
+https://sergeynt2006.github.io/md-importer-for-adobe/#demo
+https://github.com/SergeyNT2006/md-importer-for-adobe/tree/main/demo
+
+▶ FULL VERSION / PRODUCT PAGE:
+https://sergeynt2006.github.io/md-importer-for-adobe/
+
+Turn your .md files into styled Adobe documents — headings, lists, tables, code, footnotes, and more. No copy-paste, no manual tagging line by line.
+
+WHAT YOU GET (full version)
+• MD-Importer-1.6.0.zxp — CEP panel (Window → Extensions → MD Importer)
+• MD-Importer.jsx — standalone script (no panel required)
+• manual.md + sample demo.md
+
+KEY FEATURES
+• Automatic & Manual import modes
+• Style prefix (e.g. MD-H1, MD-Body)
+• Serif / Sans Serif base fonts for headings and body
+• Silent mode for batch imports
+• Colored mode (InDesign only) — MD-Color swatches for structure proofing
+
+SUPPORTED MARKDOWN
+Headings, bold/italic/code, lists, task lists, blockquotes, code blocks, GFM tables, links, images, footnotes, horizontal rules.
+
+INDESIGN vs ILLUSTRATOR
+InDesign: native tables, real footnotes, linked images, Colored mode.
+Illustrator: quick styled text import (tables/footnotes/images differ — see manual).
+
+HOW TO RUN THE FREE DEMO
+1. Download and extract MD-Importer-Demo.jsx
+2. Open InDesign or Illustrator (document open)
+3. File → Scripts → Other Script… → select the script
+4. Choose a .md file → Import
+
+Demo limit: first 80 lines only. Full version = unlimited import + CEP panel.
+
+REQUIREMENTS
+Adobe InDesign or Illustrator (CC), Windows or macOS, UTF-8 Markdown files.
+
+LICENSE
+Single-user license. Commercial use in your projects allowed. Updates for v1.x included.
+
+SUPPORT
+ryzl@hotmail.com
+
+Author: Inozemtsev Sergey
+Version: 1.6.0
+
+#MDImporter #Markdown #AdobeInDesign #AdobeIllustrator #InDesign #Illustrator #Typography #Publishing #ExtendScript #CEP

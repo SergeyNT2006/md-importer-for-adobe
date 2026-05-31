@@ -48,5 +48,15 @@ standalone/
 demo/MD-Importer-Demo_native.jsx
 demo/*_native.jsx
 
+# Payhip / release artifacts (signed ZXP stays local)
+release/**/*.zxp
+release/**/*.zip
+release/**/MD-Importer.jsx
+release/**/*.mp4
+release/**/*.prproj
+release/**/*.pek
+release/**/*.cfa
+release/**/Adobe Premiere Pro*/
+
 .env
 .env.local

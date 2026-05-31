@@ -7,6 +7,7 @@ Import **Markdown** into **Adobe InDesign** and **Adobe Illustrator** with autom
 | | |
 |---|---|
 | **Product website & purchase** | **[sergeynt2006.github.io/md-importer-for-adobe](https://sergeynt2006.github.io/md-importer-for-adobe/)** |
+| **Video demo** | **[Watch on YouTube](https://youtu.be/qtHSx2Y0sso)** |
 | **Buy full version ($99)** | **[PayPal checkout ($99) →](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=lgphonemar24@gmail.com&item_name=MD+Importer+Full+License&amount=99.00&currency_code=USD&no_shipping=1&return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2Fthanks.html&cancel_return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2F)** · [Product page #buy](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) |
 | **Free demo (standalone .jsx)** | **[Download ZIP](https://sergeynt2006.github.io/md-importer-for-adobe/demo/MD-Importer-Demo.zip)** (unzip → run script) — max 80 lines · [GitHub folder](demo/) |
 | **Sample Markdown** | [samples/demo.md](samples/demo.md) |
@@ -69,6 +70,8 @@ Compared to generic Markdown tools or paste-from-HTML workflows, MD Importer is 
 ---
 
 ## Quick start (demo)
+
+Watch the **[product overview on YouTube](https://youtu.be/qtHSx2Y0sso)** or follow the steps below.
 
 1. Download **[MD-Importer-Demo.zip](https://sergeynt2006.github.io/md-importer-for-adobe/demo/MD-Importer-Demo.zip)** and extract `MD-Importer-Demo.jsx`. Or use the [product page #demo](https://sergeynt2006.github.io/md-importer-for-adobe/#demo).
 2. Open **Adobe InDesign** or **Illustrator** with a document.
