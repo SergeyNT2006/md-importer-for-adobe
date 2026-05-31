@@ -7,7 +7,7 @@ Import **Markdown** into **Adobe InDesign** and **Adobe Illustrator** with autom
 | | |
 |---|---|
 | **Product website & purchase** | **[sergeynt2006.github.io/md-importer-for-adobe](https://sergeynt2006.github.io/md-importer-for-adobe/)** |
-| **Buy full version ($25)** | **[PayPal checkout ($25) →](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=lgphonemar24@gmail.com&item_name=MD+Importer+Full+License&amount=25.00&currency_code=USD&no_shipping=1&return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2Fthanks.html&cancel_return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2F)** · [Product page #buy](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) |
+| **Buy full version ($99)** | **[PayPal checkout ($99) →](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=lgphonemar24@gmail.com&item_name=MD+Importer+Full+License&amount=99.00&currency_code=USD&no_shipping=1&return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2Fthanks.html&cancel_return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2F)** · [Product page #buy](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) |
 | **Free demo (standalone .jsx)** | **[Download MD-Importer-Demo.jsx](https://sergeynt2006.github.io/md-importer-for-adobe/demo/MD-Importer-Demo.jsx)** — max 80 lines per file · [GitHub folder](demo/) |
 | **Sample Markdown** | [samples/demo.md](samples/demo.md) |
 
@@ -79,56 +79,19 @@ Compared to generic Markdown tools or paste-from-HTML workflows, MD Importer is 
 
 ---
 
-## Full version — $25 USD
+## Full version — $99 USD
 
 The full license includes the complete ZXP, updates for the current major version, and email support.
 
-**[→ PayPal checkout — $25 USD](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=lgphonemar24@gmail.com&item_name=MD+Importer+Full+License&amount=25.00&currency_code=USD&no_shipping=1&return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2Fthanks.html&cancel_return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2F)**
+**[→ PayPal checkout — $99 USD](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=lgphonemar24@gmail.com&item_name=MD+Importer+Full+License&amount=99.00&currency_code=USD&no_shipping=1&return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2Fthanks.html&cancel_return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2F)**
 
-Or open the [product page buy section](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) and click **Pay with PayPal — $25**.
+Or open the [product page buy section](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) and click **Pay with PayPal — $99**.
 
 After payment you receive the full installer and instructions by email (usually within 1–2 business days).  
 If needed, send your PayPal receipt to **ryzl@hotmail.com**.
 
 ---
 
-## Sample files
-
-| File | Purpose |
-|------|---------|
-| [samples/demo.md](samples/demo.md) | Headings, lists, tables, footnotes, images |
-| [samples/test-lists.md](samples/test-lists.md) | List indents and nesting |
-
----
-
-## Repository contents
-
-This public repository contains **product information and samples only**. Source code is not published.
-
-| Path | Description |
-|------|-------------|
-| [docs/](docs/) | Product website — deploy **`/docs`** folder on GitHub Pages (see below) |
-| [demo/](demo/) | **Free demo** — compiled standalone `MD-Importer-Demo.jsx` (80-line limit) |
-| [samples/](samples/) | Sample Markdown files for testing the demo |
-
----
-
-## GitHub Pages (product website)
-
-The product page with the PayPal button lives in **`docs/`**. GitHub Pages can publish only **`/` (root)** or **`/docs`** — not other folders.
-
-Configure once:
-
-1. [Repository Settings → Pages](https://github.com/SergeyNT2006/md-importer-for-adobe/settings/pages)
-2. **Source:** **Deploy from a branch**
-3. **Branch:** `main` → folder **`/docs`** → **Save**
-4. Wait 1–2 minutes, then open **https://sergeynt2006.github.io/md-importer-for-adobe/#buy**
-
-Do **not** use **`/` (root)** — without `index.html` at repo root, GitHub shows this README and `#buy` links do nothing.
-
-Alternative: **Source → GitHub Actions** (workflow `.github/workflows/pages.yml` deploys the same `docs/` folder).
-
----
 
 ## Author
 
