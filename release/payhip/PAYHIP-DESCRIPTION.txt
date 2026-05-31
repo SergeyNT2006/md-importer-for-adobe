@@ -99,5 +99,6 @@ Include your host app (InDesign / Illustrator), version, OS, and MD Importer ver
 
 Author: Inozemtsev Sergey
 Version: 1.6.0
+Buy: https://payhip.com/b/mwhab
 Product page: https://sergeynt2006.github.io/md-importer-for-adobe/
 Video: https://youtu.be/qtHSx2Y0sso

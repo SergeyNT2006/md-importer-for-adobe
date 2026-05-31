@@ -8,7 +8,7 @@ Import **Markdown** into **Adobe InDesign** and **Adobe Illustrator** with autom
 |---|---|
 | **Product website & purchase** | **[sergeynt2006.github.io/md-importer-for-adobe](https://sergeynt2006.github.io/md-importer-for-adobe/)** |
 | **Video demo** | **[Watch on YouTube](https://youtu.be/qtHSx2Y0sso)** |
-| **Buy full version ($99)** | **[PayPal checkout ($99) →](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=lgphonemar24@gmail.com&item_name=MD+Importer+Full+License&amount=99.00&currency_code=USD&no_shipping=1&return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2Fthanks.html&cancel_return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2F)** · [Product page #buy](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) |
+| **Buy full version ($99)** | **[Payhip — $99](https://payhip.com/b/mwhab)** · [Product page #buy](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) |
 | **Free demo (standalone .jsx)** | **[Download ZIP](https://sergeynt2006.github.io/md-importer-for-adobe/demo/MD-Importer-Demo.zip)** (unzip → run script) — max 80 lines · [GitHub folder](demo/) |
 | **Sample Markdown** | [samples/demo.md](samples/demo.md) |
 
@@ -86,12 +86,12 @@ Watch the **[product overview on YouTube](https://youtu.be/qtHSx2Y0sso)** or fol
 
 The full license includes the complete ZXP, updates for the current major version, and email support.
 
-**[→ PayPal checkout — $99 USD](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=lgphonemar24@gmail.com&item_name=MD+Importer+Full+License&amount=99.00&currency_code=USD&no_shipping=1&return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2Fthanks.html&cancel_return=https%3A%2F%2Fsergeynt2006.github.io%2Fmd-importer-for-adobe%2F)**
+**[→ Buy on Payhip — $99 USD](https://payhip.com/b/mwhab)**
 
-Or open the [product page buy section](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) and click **Pay with PayPal — $99**.
+Or open the [product page buy section](https://sergeynt2006.github.io/md-importer-for-adobe/#buy).
 
-After payment you receive the full installer and instructions by email (usually within 1–2 business days).  
-If needed, send your PayPal receipt to **ryzl@hotmail.com**.
+Instant digital download after checkout.  
+If needed, contact **ryzl@hotmail.com**.
 
 ---
 

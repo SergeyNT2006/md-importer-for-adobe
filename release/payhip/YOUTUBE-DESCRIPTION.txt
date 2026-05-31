@@ -5,8 +5,8 @@ https://sergeynt2006.github.io/md-importer-for-adobe/demo/MD-Importer-Demo.zip
 https://sergeynt2006.github.io/md-importer-for-adobe/#demo
 https://github.com/SergeyNT2006/md-importer-for-adobe/tree/main/demo
 
-▶ FULL VERSION / PRODUCT PAGE:
-https://sergeynt2006.github.io/md-importer-for-adobe/
+▶ FULL VERSION (Payhip):
+https://payhip.com/b/mwhab
 
 Turn your .md files into styled Adobe documents — headings, lists, tables, code, footnotes, and more. No copy-paste, no manual tagging line by line.
 

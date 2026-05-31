@@ -1,0 +1,45 @@
+RU — LinkedIn (прикрепите видео или ссылку youtu.be/qtHSx2Y0sso)
+
+---
+
+Импорт Markdown в Adobe InDesign и Illustrator — без копипаста и ручной расстановки стилей.
+
+MD Importer читает .md и сразу создаёт в документе абзацные и символьные стили: заголовки, списки, таблицы, код, сноски и др.
+
+Почему это удобно:
+→ панель прямо в InDesign / Illustrator — один клик Import
+→ Automatic и Manual — свои стили или маппинг на существующие
+→ InDesign: нативные таблицы, сноски, режим Colored для проверки структуры
+→ Illustrator: быстрая вёрстка текста со стилями
+→ бесплатное демо (первые 80 строк)
+
+В видео — установка панели, импорт и основные режимы.
+
+Полная версия ($99): https://payhip.com/b/mwhab
+Бесплатное демо: https://sergeynt2006.github.io/md-importer-for-adobe/#demo
+
+#Markdown #AdobeInDesign #AdobeIllustrator #Publishing #Typography #InDesign #Illustrator #Automation #MDImporter
+
+---
+
+EN — LinkedIn
+
+---
+
+Import Markdown into Adobe InDesign and Illustrator — no copy-paste, no manual style tagging.
+
+MD Importer maps .md structure to real paragraph and character styles: headings, lists, tables, code, footnotes, and more.
+
+Why teams use it:
+→ CEP panel inside Adobe — Browse, Import, done
+→ Automatic or Manual style mapping
+→ InDesign: native tables, footnotes, Colored proofing mode
+→ Illustrator: fast styled text placement
+→ Free demo (first 80 lines)
+
+Watch the video for a full walkthrough.
+
+Get the full version ($99): https://payhip.com/b/mwhab
+Free demo: https://sergeynt2006.github.io/md-importer-for-adobe/#demo
+
+#Markdown #AdobeInDesign #AdobeIllustrator #Publishing #Typography #InDesign #Automation #MDImporter
