@@ -8,7 +8,7 @@ Import **Markdown** into **Adobe InDesign** and **Adobe Illustrator** with autom
 |---|---|
 | **Product website & purchase** | **[sergeynt2006.github.io/md-importer-for-adobe](https://sergeynt2006.github.io/md-importer-for-adobe/)** |
 | **Video demo** | **[Watch on YouTube](https://youtu.be/qtHSx2Y0sso)** |
-| **Buy full version ($99)** | **[Payhip — $99](https://payhip.com/b/mwhab)** · [Product page #buy](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) |
+| **Buy full version ($15)** | **[Payhip — $15](https://payhip.com/b/mwhab)** · [Product page #buy](https://sergeynt2006.github.io/md-importer-for-adobe/#buy) |
 | **Free demo (standalone .jsx)** | **[Download ZIP](https://sergeynt2006.github.io/md-importer-for-adobe/demo/MD-Importer-Demo.zip)** (unzip → run script) — max 80 lines · [GitHub folder](demo/) |
 | **Sample Markdown** | [samples/demo.md](samples/demo.md) |
 
@@ -82,11 +82,11 @@ Watch the **[product overview on YouTube](https://youtu.be/qtHSx2Y0sso)** or fol
 
 ---
 
-## Full version — $99 USD
+## Full version — $15 USD
 
 The full license includes the complete ZXP, updates for the current major version, and email support.
 
-**[→ Buy on Payhip — $99 USD](https://payhip.com/b/mwhab)**
+**[→ Buy on Payhip — $15 USD](https://payhip.com/b/mwhab)**
 
 Or open the [product page buy section](https://sergeynt2006.github.io/md-importer-for-adobe/#buy).
 
